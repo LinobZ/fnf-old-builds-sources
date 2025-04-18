@@ -1,8 +1,8 @@
 # Information from
-- https://tcrf.net/Prerelease:Friday_Night_Funkin%27
-- https://tcrf.net/Proto:Friday_Night_Funkin%27
-- https://tcrf.net/Proto:Friday_Night_Funkin%27/Newgrounds_Demo
-- https://fridaynightfunkin.wiki.gg
+- [Main Cutting Room Floor Page](https://tcrf.net/Prerelease:Friday_Night_Funkin%27)
+- [Cutting Room Floor Prototype Page](https://tcrf.net/Proto:Friday_Night_Funkin%27)
+- [Cutting Room Floor Extra Infor](https://tcrf.net/Proto:Friday_Night_Funkin%27/Newgrounds_Demo)
+- [Funkin' Wiki](https://fridaynightfunkin.wiki.gg)
 
 # Special Thanks
 - [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
