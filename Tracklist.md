@@ -1,11 +1,20 @@
-# Tracklist
-- [Kawaisprite - Fresh (Instrumental)](https://www.youtube.com/watch?v=RyIHeADORPo)
-- [Kawaisprite - Thorns (Instrumental)](https://youtu.be/sxqBZvZTG3Y?si=W8GqElaUGZkhTogl)
-- [Kawaisprite - Radical](https://www.youtube.com/watch?v=IJZG-95rdSM) *(Can't find an original upload sorry)*
-- [Kawaisprite - Lit Up (Instrumental)](https://www.youtube.com/watch?v=M04IDK0MKEU)
-- [Kawaisprite - Roses (Instrumental)](https://www.youtube.com/watch?v=Ezm1sK0LoME)
-- [Kawaisprite - Ugh (Instrumental)](https://youtu.be/qAz6UfKb2tk?si=-GXMSsRuX8Ahgy74)
-- [Kawaisprite - Guns (Instrumental)](https://youtu.be/X2VhlVYhzAI?si=mm-TxitetB8bku0A)
-- [Kawaisprite - Dadbattle (Instrumental)](https://youtu.be/gsgaQfHcOoY?si=aGDqT4Cc-mSl9GzA)
-- [Kawaisprite - Blazin')](https://www.youtube.com/watch?v=u_cGjY5VRZE)
-- [JADS - Distant Chuckle Teaser](https://www.youtube.com/watch?v=oTROpaKWzV8)
+# Old Builds Tracklist (In Order)
+- Wavedash.ppt - Celeste OST
+- Sansational - Indie Cross OST
+- Main Menu Theme - Funkin' Aside OST
+- Redline - FNF SchoolGrounds OST
+- Creme De La Creme - FNAF 6 OST
+- Serene (Main Menu) - FNF B-Side Redux OST
+- Roadkill - FNF Online Vs OST
+- Study Hall (Menu Theme) - FNF SchoolGrounds OST
+- Cozmik - FNF 7quid OST
+- Thank You For Your Patience - FNAF 6 OST
+- Delusion - FNF Vs Impostor V4 OST
+- Never Forgive Me, Never Forget Me - Silent Hill 3 OST
+- Title Screen - FNAF 6 OST
+- Prey - FNF Sonic.exe OST
+- Options Menu - Canceled FNF: Tails Gets Trolled OST
+- Roses - Friday Night Funkin OST
+- Overdrive - Hotline 024 OST
+- Sugracrush - Hotline 024 OST
+- Distant Chuckle Teaser - FNF Vs Tricky OST

@@ -1,11 +1,11 @@
-# Clips from
-- [Moawling](https://www.twitch.tv/moawling)
-- [Ninjamuffin99](https://www.twitch.tv/ninja_muffin99)
-- [Phatomarcade](https://www.twitch.tv/phantom_arcade)
-- [EliteMasterEric](https://x.com/elitemastereric)
+# Information from
+- https://tcrf.net/Prerelease:Friday_Night_Funkin%27
+- https://tcrf.net/Proto:Friday_Night_Funkin%27
+- https://tcrf.net/Proto:Friday_Night_Funkin%27/Newgrounds_Demo
+- https://fridaynightfunkin.wiki.gg
 
 # Special Thanks
-- [Lendon](https://www.youtube.com/@LendonKsKs)
-- [Senpara](https://www.youtube.com/@2Hot_Is_Banger)
-- [Superlotive Lotion](https://www.youtube.com/@superlovelotion3032)
-- [FridayNewsNet](https://x.com/FridayNewsNet)
+- [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
+- [CKDEV](https://www.youtube.com/@CKDEV) *(Video inspired by him)*
+- [DidYouKnowGaming](https://www.youtube.com/@DidYouKnowGamin)
+- [cscoopVEVO](https://www.youtube.com/@cscoopvevo) *(Inspired the subtitle style)*
